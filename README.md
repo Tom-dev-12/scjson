@@ -4,6 +4,10 @@
 
 It is simple, portable, and has no external dependencies. It uses POSIX.1-2008 where needed.
 
+## Integration Example
+
+**An example usage of this tool:** [example-login-c-stack](https://github.com/KrzysztofMarciniak/example-login-c-stack).
+
 ## Public API
 [api.md](https://github.com/KrzysztofMarciniak/scjson/blob/master/api.md)
 
